@@ -8,7 +8,7 @@ print("spam" * 3)
 
 # format method
 
-message = "Value of x = {x} and y = {y}".format(x = 20,y = 30)
+message = "Value of A = {x} and B = {y}".format(x = 20,y = 30)
 
 print(message)
 
